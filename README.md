@@ -14,7 +14,7 @@ The two methods are applied on the same dataset. Thus, we can differentiate betw
 
 # Getting started
 
-Begin by exploring the sorce code and download the datasets. (flower1.jpeg and Iris.csv)
+Begin by exploring the source code and download the datasets. (flower1.jpeg and Iris.csv)
 
 # Import required libraries
 
