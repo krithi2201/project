@@ -46,5 +46,6 @@ $ python3 project.py
 
 #Results
 
-For k-NN: Train and test splits, evalution report via confusion matrix and classification, visualization of the samples using scatter plot.
-![k-NN](C:\Users\User\Desktop\k-NN)
+For k-NN: Train and test splits, evalution report via confusion matrix and classification, visualization of the samples using scatter plot.  
+
+![k-NN](https://github.com/krithi2201/project/blob/main/k-NN.PNG)
