@@ -16,7 +16,7 @@ The two methods are applied on the same dataset. Thus, we can differentiate betw
 
 Begin by exploring the sorce code and download the datasets. (flower1.jpeg and Iris.csv)
 
-#Import required libraries
+# Import required libraries
 
 For k-NN  
 
@@ -28,24 +28,32 @@ from sklearn.model_selection import train_test_split
 from sklearn.metrics import classification_report,confusion_matrix
 import numpy as np
 import matplotlib.pyplot as plt
-
 ```
 For k-means clustering
 
 ```
 import matplotlib.pyplot as plt
 import cv2
-
 ```
 
-#Run the python file
+# Run the python file
 
 ```
 $ python3 project.py
 ```
 
-#Results
+# Results
 
-For k-NN: Train and test splits, evalution report via confusion matrix and classification, visualization of the samples using scatter plot.  
+For k-NN  
+
+Train and test splits, evalution report via confusion matrix and classification, visualization of the samples using scatter plot.  
+
 
 ![k-NN](https://github.com/krithi2201/project/blob/main/k-NN.PNG)
+
+For k-means clustering
+
+Convert the data into 8-bit values, reshape data into the original image dimensions and show the concatenated image.  
+
+
+![k-means](https://github.com/krithi2201/project/blob/main/k-means%20clustering.PNG)
