@@ -1,6 +1,4 @@
 https://rpubs.com/
-https://en.wikipedia.org/wiki/K-nearest_neighbors_algorithm
-https://en.wikipedia.org/wiki/K-means_clustering
 https://becominghuman.ai/comprehending-k-means-and-knn-algorithms-c791be90883d
 Oliver Theobald, “Machine Learning for Absolute Beginners”, 2nd Edition,2017.
 Ethem Alpaydin, “Introduction to Machine Learning”, Third Edition.
