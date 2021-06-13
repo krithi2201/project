@@ -39,7 +39,7 @@ import cv2
 # Run the python file
 
 ```
-$ python3 project.py
+$ python3.8 project.py
 ```
 
 # Results
